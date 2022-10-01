@@ -1,2 +1,2 @@
-# xiyxiy-RSY
-xiyxiy的仓库Repository（RSY）
+# xiyxiy-Repo
+xiyxiy repo
